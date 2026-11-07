@@ -1,2 +1,8 @@
-# Employee_Attrition
-Proyek Machine Learning untuk Prediksi Employee Attrition
+# Python 3.13 (Google Colab)
+matplotlib==3.10.0
+numpy==2.1.3
+pandas==2.2.3
+scikit-learn==1.6.1
+scipy==1.16.3
+umap-learn==0.5.12
+ 
