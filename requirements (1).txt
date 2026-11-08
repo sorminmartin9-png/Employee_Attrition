@@ -1,0 +1,6 @@
+# Python 3.13.18 (Google Colab)
+numpy==2.4.6
+pandas==2.2.3
+scikit-learn==1.6.1
+# Isi versi matplotlib dari output sel versi notebook (lihat petunjuk), lalu hapus baris komentar ini
+matplotlib
