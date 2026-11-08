@@ -2,9 +2,9 @@
 
 Memprediksi karyawan yang berisiko resign (klasifikasi biner) menggunakan dataset IBM HR Analytics, dengan fokus pada validasi yang benar, perbandingan model, dan pelaporan yang jujur.
 
-- Kelompok: [ISI]
-- Anggota: [ISI NAMA LENGKAP]
-- Project ID: A09 (sesuaikan dengan registri)
+- Kelompok: Employe Attrition
+- Anggota: Martin Sormin
+- Project ID: A09 
 
 ## Struktur repositori
 
