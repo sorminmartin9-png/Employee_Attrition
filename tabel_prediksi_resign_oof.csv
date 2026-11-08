@@ -1,0 +1,6 @@
+model,diprediksi_resign,tertangkap_TP,alarm_palsu_FP,terlewat_FN,total_resign_training,sumber
+Logistic Regression,107,84,23,106,190,employee_attrition_milestone1_kelompok_09.ipynb
+LR + class_weight,380,140,240,50,190,employee_attrition_milestone1_kelompok_09.ipynb
+KNN (k=15),6,6,0,184,190,employee_attrition_milestone1_kelompok_09.ipynb
+Random Forest,48,39,9,151,190,employee_attrition_milestone1_kelompok_09.ipynb
+Gradient Boosting,87,63,24,127,190,employee_attrition_milestone1_kelompok_09.ipynb
